@@ -2,7 +2,7 @@
 Meus tarbalhos bimestreias da faculdade da materia de construção web
 
 # O que vou encontrar aqui?
-Aqui teremos dois subdiretórios, que você irá encontrar dois arquivos diferentes, onde em um deles temos:
+Aqui teremos um formulário de cadastro de uma das telas criadas em wireframe, para ux-ui.
 
 # Trabalho de criação página de refugiada:
 Nele você terá acesso a um formulário de cadastro de refugiada, que foi criado com base no wireframe realizado em um projeto de ux.
